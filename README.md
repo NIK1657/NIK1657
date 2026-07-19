@@ -38,7 +38,7 @@
   <a href="mailto:golanikunj165@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nikunj-gola-bb7b1332a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B01ZuttwTTAGkZNaZXA0dUg%3D%3D">
+  <a href="https://www.linkedin.com/in/nikunj-gola-bb7b1332a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
