@@ -40,7 +40,7 @@
   <a href="mailto:golanikunj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
+  <a href="https://linkedin.com/in/nikunj-gola-bb7b1332a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/golanikunj">
