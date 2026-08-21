@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 - 🔭 I'm an **AIML Engineering student**, spending most of my time deep in tech, software, and all things AI.
-- 🧠 Beyond code, I'm working on myself too — exploring fields like **psychology** and **philosophy** to understand minds (human and artificial 😄) a little better.
+- 🧠 Beyond code, I'm working on myself too — exploring fields like psychology, philosophy, and finance to understand minds (human and artificial 😄) and money a little better.
 - 📚 Always curious, always learning, always building something new.
 - 🤝 Open to connecting with people who love tech, ideas, or a good deep conversation.
 
