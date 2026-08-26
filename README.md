@@ -13,6 +13,8 @@
 - 🧠 Beyond code, I'm working on myself too — exploring fields like psychology, philosophy, and finance to understand minds (human and artificial 😄) and money a little better.
 - 📚 Always curious, always learning, always building something new.
 - 🤝 Open to connecting with people who love tech, ideas, or a good deep conversation.
+-  🌱 Interested in **open source** — enjoy digging into other people's repos, fixing small bugs, and contributing where I can.
+- 👯 Looking to collaborate on open-source AI/ML or Python tooling projects.
 
 ---
 
@@ -36,6 +38,7 @@
 </p>
 
 ---
+
 
 ### 📫 Connect With Me
 <p align="left">
