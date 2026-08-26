@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Nikunj Gola 👋</h1>
-
 <p align="center">
   🎓 AIML Engineering Student &nbsp;|&nbsp; 🤖 Building in Tech, Software & AI &nbsp;|&nbsp; 🌱 Growing Beyond Code
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=AIML+Engineering+Student;AI+and+Software+Explorer;Curious+about+Psychology+%26+Philosophy;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
@@ -11,7 +9,6 @@
 ---
 
 ### 🚀 About Me
-
 - 🔭 I'm an **AIML Engineering student**, spending most of my time deep in tech, software, and all things AI.
 - 🧠 Beyond code, I'm working on myself too — exploring fields like psychology, philosophy, and finance to understand minds (human and artificial 😄) and money a little better.
 - 📚 Always curious, always learning, always building something new.
@@ -21,30 +18,37 @@
 
 ### 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js" alt="C, C++, Python, JavaScript" />
+</p>
+
+**Markup & Styling**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML5, CSS3" />
+</p>
+
+**Libraries & Tools**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="48" height="48"/>
 </p>
 
 ---
 
 ### 📫 Connect With Me
-
 <p align="left">
   <a href="mailto:golanikunj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48"/>
   </a>
-  <a href="https://linkedin.com/in/nikunj-gola-bb7b1332a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/nikunj-gola-bb7b1332a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
   </a>
-  <a href="https://twitter.com/golanikunj">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  &nbsp;
+  <a href="https://twitter.com/golanikunj" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48" height="48"/>
   </a>
 </p>
 
