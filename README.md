@@ -42,7 +42,7 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="mailto:golanikunj@gmail.com">
+  <a href="mailto:golanikunj165@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48"/>
   </a>
   &nbsp;
